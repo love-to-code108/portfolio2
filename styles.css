@@ -71,7 +71,7 @@ html{
 #heroImage{
     height: 110vh;
     width: auto;
-    background-image: url(img/image3.jpg);
+    background-image: url(image3.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
